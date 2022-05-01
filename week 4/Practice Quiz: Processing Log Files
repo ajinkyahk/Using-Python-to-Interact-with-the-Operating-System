@@ -1,0 +1,18 @@
+1.
+Question 1
+You have created a Python script to read a log of users running CRON jobs. The script needs to accept a command line argument for the path to the log file. 
+Which line of code accomplishes this?
+
+syslog=sys.argv[1]
+
+
+
+
+4.
+Question 4
+When searching log files using regex, which regex statement will search for the alphanumeric word "IP" followed by 
+one or more digits wrapped in parentheses using a capturing group?
+
+r"IP \((\d+)\)$"
+
+
